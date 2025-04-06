@@ -23,5 +23,6 @@ A simple to-do-list app where you can enter tasks, update them, edit them and de
 - Install all dependencies using npm install.
 - Create your own cluster on MongoAtlas and get the string URI.
 - Pass the URI to connect to the database.
-- npm run dev.
+- run the server with nodemon server.js
+- run the client with npm run dev.
 - Open your browser and go to http://localhost:5173.
